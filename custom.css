@@ -5,6 +5,10 @@
   position: relative;
 }
 
+.us {
+  max-width:sm;
+}
+
 .my-bg-photo * {
   position: relative;
   z-index: 10;
