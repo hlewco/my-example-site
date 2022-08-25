@@ -23,17 +23,9 @@
 }
 
 .my-custom-container {
-  max-width: 800px;
+  max-width: 1300px;
 }
 
 .accordion .btn-link:focus {
   box-shadow: none;
-}
-
-.my-drawing {
-  transition: all .33s ease-out;
-}
-
-.my-drawing:hover {
-  transform: scale(1.054) rotate(15deg);
 }
