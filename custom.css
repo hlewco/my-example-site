@@ -91,3 +91,21 @@
 .cycle-pager .cycle-pager-active {
   background-color: #000;
 }
+
+.row:before,
+.row:after,
+.group:before,
+.group:after {
+  content: "";
+  display: table;
+}
+
+.row:after,
+.group:after {
+  clear: both;
+}
+
+.row,
+.group {
+  zoom: 1;
+}
