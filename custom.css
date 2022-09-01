@@ -30,6 +30,16 @@
   max-width: 1300px;
 }
 
-.accordion .btn-link:focus {
-  box-shadow: none;
+/* Slideshow Styles */
+.cycle-slideshow {
+  margin-bottom: 30px;
+}
+
+.slide {
+  width: 100%;
+  position: relative;
+}
+
+.slide img {
+  display: block;
 }
