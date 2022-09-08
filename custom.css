@@ -335,12 +335,6 @@ html.cssanimations .box-a {
   box-sizing: border-box;
 }
 
-@media screen and (max-width: 767px) {
-  .slide-text {
-    position: static;
-    background-color: #000;
-  }
-}
 
 .slide-text h3 {
   margin: 0;
