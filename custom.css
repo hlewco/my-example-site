@@ -350,7 +350,7 @@ html.cssanimations .box-a {
 .cycle-prev,
 .cycle-next {
   position: absolute;
-  top: 30%;
+  top: 50%;
   background-color: rgba(0, 0, 0, 0.35);
   color: #fff;
   padding: 1px 10px;
