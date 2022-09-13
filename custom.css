@@ -320,7 +320,8 @@ html.cssanimations .box-a {
 .slide {
   width: 100%;
   position: relative;
-  image: 100%;
+  image width 500px;
+  image height 500px;
 }
 
 .slide img {
